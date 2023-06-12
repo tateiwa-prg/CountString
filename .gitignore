@@ -1,0 +1,3 @@
+/files/*
+!/files/test.s
+!/files/test222.s
